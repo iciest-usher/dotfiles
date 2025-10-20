@@ -1,0 +1,8 @@
+[".tmux/plugins/tpm"]
+    type = "git-repo"
+    url = "https://github.com/tmux-plugins/tpm"
+    refreshPeriod = "1h"
+
+[".vim/colors/ayu-vim/ayu.vim"]
+    type = "file"
+    url = "https://raw.githubusercontent.com/ayu-theme/ayu-vim/refs/heads/master/colors/ayu.vim"
